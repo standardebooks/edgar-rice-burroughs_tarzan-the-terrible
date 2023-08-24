@@ -14,3 +14,24 @@ dd + dt{
 	margin-top: 1em;
 }
 /* End all glossaries */
+
+/* All figures */
+figure{
+	break-inside: avoid;
+	margin: 1em 40px;
+	text-align: center;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+
+figcaption{
+	font-size: .75em;
+	font-style: italic;
+	margin: 1em;
+}
+
+/* End all figures */
