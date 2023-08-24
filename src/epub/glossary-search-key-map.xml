@@ -58,16 +58,16 @@
 		<match value="bu"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#bu-lot-moon-face">
-		<match value="bu-lot-moon-face"/>
+		<match value="bu-lot"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#bu-lur-moon-city">
-		<match value="bu-lur-moon-city"/>
+		<match value="bu-lur"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dak">
 		<match value="dak"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dak-at-fat-tail">
-		<match value="dak-at-fat-tail"/>
+		<match value="dak-at"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dak-lot">
 		<match value="dak-lot"/>
@@ -85,7 +85,7 @@
 		<match value="dor"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#dor-ul-otho-son-of-god">
-		<match value="dor-ul-otho-son-of-god"/>
+		<match value="dor-ul-otho"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#e">
 		<match value="e"/>
@@ -106,7 +106,7 @@
 		<match value="es"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#es-sat-rough-skin">
-		<match value="es-sat-rough-skin"/>
+		<match value="es-sat"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#et">
 		<match value="et"/>
@@ -175,13 +175,13 @@
 		<match value="jad-in-lul"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ja-don-the-lion-man">
-		<match value="ja-don-the-lion-man"/>
+		<match value="ja-don"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#jad-pele-ul-jad-ben-otho">
 		<match value="jad-pele-ul-jad-ben-otho"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ja-lur-lion-city">
-		<match value="ja-lur-lion-city"/>
+		<match value="ja-lur"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#jar">
 		<match value="jar"/>
@@ -226,7 +226,7 @@
 		<match value="lu"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#lu-don-fierce-man">
-		<match value="lu-don-fierce-man"/>
+		<match value="lu-don"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#lul">
 		<match value="lul"/>
@@ -241,7 +241,7 @@
 		<match value="mo"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#mo-sar-short-nose">
-		<match value="mo-sar-short-nose"/>
+		<match value="mo-sar"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#mu">
 		<match value="mu"/>
@@ -262,13 +262,13 @@
 		<match value="og"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#o-lo-a-like-star-light">
-		<match value="o-lo-a-like-star-light"/>
+		<match value="o-lo-a"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#om">
 		<match value="om"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#om-at-long-tail">
-		<match value="om-at-long-tail"/>
+		<match value="om-at"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#on">
 		<match value="on"/>
@@ -280,10 +280,10 @@
 		<match value="pal"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#pale-don-so-place-where-men-eat">
-		<match value="pale-don-so-place-where-men-eat"/>
+		<match value="pale-don-so"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#pal-ul-don-land-of-man">
-		<match value="pal-ul-don-land-of-man"/>
+		<match value="pal-ul-don"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#pal-ul-ja">
 		<match value="pal-ul-ja"/>
@@ -295,7 +295,7 @@
 		<match value="pan-at-lee"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#pan-sat-soft-skin">
-		<match value="pan-sat-soft-skin"/>
+		<match value="pan-sat"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#pastar">
 		<match value="pastar"/>
@@ -337,7 +337,7 @@
 		<match value="ta"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ta-den-tall-tree">
-		<match value="ta-den-tall-tree"/>
+		<match value="ta-den"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#tan">
 		<match value="tan"/>
@@ -361,7 +361,7 @@
 		<match value="tu"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#tu-lur-bright-city">
-		<match value="tu-lur-bright-city"/>
+		<match value="tu-lur"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ul">
 		<match value="ul"/>
@@ -382,7 +382,7 @@
 		<match value="waz-don"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#waz-ho-don-black-white-men">
-		<match value="waz-ho-don-black-white-men"/>
+		<match value="waz-ho-don"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#xot">
 		<match value="xot"/>
