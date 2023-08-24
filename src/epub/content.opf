@@ -154,6 +154,5 @@
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
-
 	</spine>
 </package>
