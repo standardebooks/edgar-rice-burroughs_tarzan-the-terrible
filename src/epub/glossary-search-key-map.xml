@@ -12,20 +12,8 @@
 	<search-key-group href="text/glossary.xhtml#ad">
 		<match value="ad"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#adad">
-		<match value="adad"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#adadad">
-		<match value="adadad"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#adaden">
-		<match value="adaden"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#aden">
 		<match value="aden"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#adenaden">
-		<match value="adenaden"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#adenen">
 		<match value="adenen"/>
@@ -177,9 +165,6 @@
 	<search-key-group href="text/glossary.xhtml#ja-don-the-lion-man">
 		<match value="ja-don"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#jad-pele-ul-jad-ben-otho">
-		<match value="jad-pele-ul-jad-ben-otho"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ja-lur-lion-city">
 		<match value="ja-lur"/>
 	</search-key-group>
@@ -323,12 +308,6 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#so">
 		<match value="so"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#sod">
-		<match value="sod"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#sog">
-		<match value="sog"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#son">
 		<match value="son"/>
