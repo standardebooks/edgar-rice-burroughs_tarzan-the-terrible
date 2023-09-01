@@ -264,8 +264,8 @@
 	<search-key-group href="text/glossary.xhtml#pal">
 		<match value="pal"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#pale-don-so-place-where-men-eat">
-		<match value="pale-don-so"/>
+	<search-key-group href="text/glossary.xhtml#pal-e-don-so-place-where-men-eat">
+		<match value="pal-e-don-so"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#pal-ul-don-land-of-man">
 		<match value="pal-ul-don"/>
