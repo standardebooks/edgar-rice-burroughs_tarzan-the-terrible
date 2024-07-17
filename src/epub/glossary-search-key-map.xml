@@ -9,12 +9,6 @@
 	<search-key-group href="text/glossary.xhtml#ab-on">
 		<match value="ab-on"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#ad">
-		<match value="ad"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#aden">
-		<match value="aden"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#adenen">
 		<match value="adenen"/>
 	</search-key-group>
@@ -78,32 +72,14 @@
 	<search-key-group href="text/glossary.xhtml#e">
 		<match value="e"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#ed">
-		<match value="ed"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#el">
-		<match value="el"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#en">
-		<match value="en"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#enen">
-		<match value="enen"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#es">
 		<match value="es"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#es-sat-rough-skin">
 		<match value="es-sat"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#et">
-		<match value="et"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#fur">
 		<match value="fur"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#ged">
-		<match value="ged"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#go">
 		<match value="go"/>
@@ -116,9 +92,6 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#guru">
 		<match value="guru"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#het">
-		<match value="het"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ho">
 		<match value="ho"/>
@@ -195,9 +168,6 @@
 	<search-key-group href="text/glossary.xhtml#ko-tan">
 		<match value="ko-tan"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#lav">
-		<match value="lav"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#lee">
 		<match value="lee"/>
 	</search-key-group>
@@ -219,17 +189,11 @@
 	<search-key-group href="text/glossary.xhtml#lur">
 		<match value="lur"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#ma">
-		<match value="ma"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#mo">
 		<match value="mo"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#mo-sar-short-nose">
 		<match value="mo-sar"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#mu">
-		<match value="mu"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#no">
 		<match value="no"/>
@@ -237,14 +201,8 @@
 	<search-key-group href="text/glossary.xhtml#o">
 		<match value="o"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#od">
-		<match value="od"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#o-dan">
 		<match value="o-dan"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#og">
-		<match value="og"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#o-lo-a-like-star-light">
 		<match value="o-lo-a"/>
@@ -291,14 +249,8 @@
 	<search-key-group href="text/glossary.xhtml#pele">
 		<match value="pele"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#ro">
-		<match value="ro"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#sad">
 		<match value="sad"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#san">
-		<match value="san"/>
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#sar">
 		<match value="sar"/>
@@ -327,9 +279,6 @@
 	<search-key-group href="text/glossary.xhtml#to">
 		<match value="to"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#ton">
-		<match value="ton"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#tor">
 		<match value="tor"/>
 	</search-key-group>
@@ -348,9 +297,6 @@
 	<search-key-group href="text/glossary.xhtml#un">
 		<match value="un"/>
 	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#ut">
-		<match value="ut"/>
-	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#ved">
 		<match value="ved"/>
 	</search-key-group>
@@ -368,8 +314,5 @@
 	</search-key-group>
 	<search-key-group href="text/glossary.xhtml#yo">
 		<match value="yo"/>
-	</search-key-group>
-	<search-key-group href="text/glossary.xhtml#za">
-		<match value="za"/>
 	</search-key-group>
 </search-key-map>
