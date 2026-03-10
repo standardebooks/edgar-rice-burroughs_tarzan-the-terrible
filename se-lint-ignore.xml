@@ -2,21 +2,25 @@
 <se-lint-ignore>
 	<file path="appendix.xhtml">
 		<ignore code="s-023">
+			<line>10</line>
 			<reason>Words in some titles are in the fictional language of Pal-ul-don and are titlecased correctly for that language.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-5.xhtml">
 		<ignore code="s-023">
+			<line>12</line>
 			<reason>Words in some titles are in the fictional language of Pal-ul-don and are titlecased correctly for that language.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-17.xhtml">
 		<ignore code="s-023">
+			<line>12</line>
 			<reason>Words in some titles are in the fictional language of Pal-ul-don and are titlecased correctly for that language.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-18.xhtml">
 		<ignore code="s-023">
+			<line>12</line>
 			<reason>Words in some titles are in the fictional language of Pal-ul-don and are titlecased correctly for that language.</reason>
 		</ignore>
 	</file>
